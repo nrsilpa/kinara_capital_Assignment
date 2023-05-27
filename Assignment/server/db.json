@@ -1,0 +1,413 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Shilpa",
+            "branch": "cse",
+            "year": 4,
+            "phone": 9390015175,
+            "total_marks": 540
+        },
+        {
+            "id": 2,
+            "name": "Jessi",
+            "branch": "cse",
+            "year": 4,
+            "phone": 7730558128,
+            "total_marks": 570
+        },
+        {
+            "id": 3,
+            "name": "Ayaan",
+            "branch": "ece",
+            "year": 4,
+            "phone": 9878956368,
+            "total_marks": 470
+        },
+        {
+            "id": 4,
+            "name": "Achi",
+            "branch": "eee",
+            "year": 3,
+            "phone": 5346927504,
+            "total_marks": 570
+        },
+        {
+            "id": 5,
+            "name": "Asha",
+            "branch": "cse",
+            "year": 3,
+            "phone": 6438579826,
+            "total_marks": 300
+        },
+        {
+            "id": 6,
+            "name": "shilpa singh",
+            "branch": "eee",
+            "year": 2,
+            "phone": 86328712959,
+            "total_marks": 200
+        },
+        {
+            "id": 7,
+            "name": "Asha Rani",
+            "branch": "civil",
+            "year": 4,
+            "phone": 5387649859,
+            "total_marks": 400
+        },
+        {
+            "id": 8,
+            "name": "Jessi",
+            "branch": "eee",
+            "year": 3,
+            "phone": 6258792486,
+            "total_marks": 300
+        },
+        {
+            "id": 9,
+            "name": "Achi Reddy",
+            "branch": "mechanical",
+            "year": 1,
+            "phone": 5376587999,
+            "total_marks": 580
+        },
+        {
+            "id": 10,
+            "name": "John",
+            "branch": "civil",
+            "year": 1,
+            "phone": 4587694876,
+            "total_marks": 270
+        },
+        {
+            "id": 11,
+            "name": "Anu",
+            "branch": "ece",
+            "year": 2,
+            "phone": 2307645879,
+            "total_marks": 230
+        },
+        {
+            "id": 12,
+            "name": "joseph",
+            "branch": "eee",
+            "year": 3,
+            "phone": 6587947962,
+            "total_marks": 400
+        },
+        {
+            "id": 13,
+            "name": "Achu",
+            "branch": "cse",
+            "year": 4,
+            "phone": "9963241678",
+            "total_marks": "400"
+        },
+        {
+            "id": 14,
+            "name": "Achyu",
+            "branch": "cse",
+            "year": 3,
+            "phone": "9963241679",
+            "total_marks": "300"
+        },
+        {
+            "id": 15,
+            "name": "shillu",
+            "branch": "eee",
+            "year": 2,
+            "phone": "9963241698",
+            "total_marks": "200"
+        },
+        {
+            "id": 16,
+            "name": "pandu",
+            "branch": "eee",
+            "year": 3,
+            "phone": "9963231698",
+            "total_marks": "100"
+        },
+        {
+            "id": 17,
+            "name": "Anitha",
+            "branch": "csee",
+            "year": 1,
+            "phone": "9763241698",
+            "total_marks": "300"
+        },
+        {
+            "id": 18,
+            "name": "Ram",
+            "branch": "cse",
+            "year": 3,
+            "phone": "9964241698",
+            "total_marks": "400"
+        },
+        {
+            "id": 19,
+            "name": "kanan",
+            "branch": "eee",
+            "year": 2,
+            "phone": "9563241698",
+            "total_marks": "200"
+        },
+        {
+            "id": 20,
+            "name": "shillu",
+            "branch": "eee",
+            "year": 2,
+            "phone": "9963241698",
+            "total_marks": "200"
+        },
+        {
+            "id": 21,
+            "name": "Thillu",
+            "branch": "eee",
+            "year": 2,
+            "phone": "9973241698",
+            "total_marks": "200"
+        },
+        {
+            "id": 22,
+            "name": "dhillu",
+            "branch": "eee",
+            "year": 2,
+            "phone": "9983241698",
+            "total_marks": "200"
+        },
+        {
+            "id": 23,
+            "name": "nisha",
+            "branch": "mechanical",
+            "year": 3,
+            "phone": "9969241698",
+            "total_marks": "200"
+        },
+        {
+            "id": 24,
+            "name": "sanjeev",
+            "branch": "cse",
+            "year": 4,
+            "phone": "9960241698",
+            "total_marks": "200"
+        },
+        {
+            "id": 25,
+            "name": "karna",
+            "branch": "eee",
+            "year": 2,
+            "phone": "9963241698",
+            "total_marks": "400"
+        },
+        {
+            "id": 26,
+            "name": "prem",
+            "branch": "cse",
+            "year": 4,
+            "phone": "9963241098",
+            "total_marks": "400"
+        },
+        {
+            "id": 27,
+            "name": "phill",
+            "branch": "eee",
+            "year": 2,
+            "phone": "9923241698",
+            "total_marks": "300"
+        },
+        {
+            "id": 28,
+            "name": "philly",
+            "branch": "eee",
+            "year": 3,
+            "phone": "9063241698",
+            "total_marks": "200"
+        },
+        {
+            "id": 29,
+            "name": "lyhill",
+            "branch": "cse",
+            "year": 3,
+            "phone": "9963241098",
+            "total_marks": "400"
+        },
+        {
+            "id": 30,
+            "name": "lyhill",
+            "branch": "cse",
+            "year": 4,
+            "phone": "9983241098",
+            "total_marks": "300"
+        },
+        {
+            "id": 31,
+            "name": "khill",
+            "branch": "eee",
+            "year": 3,
+            "phone": "9969241098",
+            "total_marks": "380"
+        },
+        {
+            "id": 32,
+            "name": "charvi",
+            "branch": "eee",
+            "year": 3,
+            "phone": "9969241098",
+            "total_marks": "380"
+        },
+        {
+            "id": 33,
+            "name": "chirag",
+            "branch": "cse",
+            "year": 3,
+            "phone": "9968241098",
+            "total_marks": "380"
+        },
+        {
+            "id": 32,
+            "name": "Achyuha",
+            "branch": "eee",
+            "year": 1,
+            "phone": "9969341098",
+            "total_marks": "280"
+        },
+        {
+            "id": 33,
+            "name": "ghill",
+            "branch": "cse",
+            "year": 2,
+            "phone": "9969231098",
+            "total_marks": "280"
+        },
+        {
+            "id": 34,
+            "name": "Shiva",
+            "branch": "mechanical",
+            "year": 4,
+            "phone": "9969231098",
+            "total_marks": "340"
+        },
+        {
+            "id": 35,
+            "name": "David",
+            "branch": "cse",
+            "year": 1,
+            "phone": "9909241098",
+            "total_marks": "360"
+        },
+        {
+            "id": 36,
+            "name": "ani",
+            "branch": "cse",
+            "year": 2,
+            "phone": "9969200098",
+            "total_marks": "180"
+        },
+        {
+            "id": 37,
+            "name": "ani",
+            "branch": "mechanical",
+            "year": 4,
+            "phone": "9998300098",
+            "total_marks": "280"
+        },
+        {
+            "id": 39,
+            "name": "anshu",
+            "branch": "mechanical",
+            "year": 3,
+            "phone": "9998210098",
+            "total_marks": "270"
+        },
+        {
+            "id": 40,
+            "name": "danik",
+            "branch": "mechanical",
+            "year": 3,
+            "phone": "9998220098",
+            "total_marks": "380"
+        },
+        {
+            "id": 41,
+            "name": "kanchu",
+            "branch": "cse",
+            "year": 4,
+            "phone": "9978200098",
+            "total_marks": "280"
+        },
+        {
+            "id": 42,
+            "name": "anju",
+            "branch": "mechanical",
+            "year": 4,
+            "phone": "9898200098",
+            "total_marks": "280"
+        },
+        {
+            "id": 43,
+            "name": "hari",
+            "branch": "mechanical",
+            "year": 4,
+            "phone": "9923200098",
+            "total_marks": "280"
+        },
+        {
+            "id": 44,
+            "name": "mahi",
+            "branch": "mechanical",
+            "year": 3,
+            "phone": "9728200098",
+            "total_marks": "180"
+        },
+        {
+            "id": 45,
+            "name": "premji",
+            "branch": "cse",
+            "year": 2,
+            "phone": "9998330098",
+            "total_marks": "380"
+        },
+        {
+            "id": 46,
+            "name": "shivaji",
+            "branch": "mechanical",
+            "year": 2,
+            "phone": "9988200098",
+            "total_marks": "380"
+        },
+        {
+            "id": 47,
+            "name": "karamji",
+            "branch": "mechanical",
+            "year": 3,
+            "phone": "9998000098",
+            "total_marks": "180"
+        },
+        {
+            "id": 48,
+            "name": "ani",
+            "branch": "eee",
+            "year": 1,
+            "phone": "9998290098",
+            "total_marks": "240"
+        },
+        {
+            "id": 49,
+            "name": "ani",
+            "branch": "mechanical",
+            "year": 2,
+            "phone": "9998299098",
+            "total_marks": "300"
+        },
+        {
+            "id": 50,
+            "name": "ani",
+            "branch": "cse",
+            "year": 3,
+            "phone": "9998880098",
+            "total_marks": "180"
+        }
+    ]
+}
+       
